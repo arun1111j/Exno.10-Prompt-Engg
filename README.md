@@ -1,4 +1,5 @@
-# Exno.10-Prompt-Engg
+# Exno.10-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+## DATE: 28/04/2025
 # Aim: 
 To perform Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
